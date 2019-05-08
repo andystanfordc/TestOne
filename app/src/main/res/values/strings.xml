@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WebAPIC</string>
+    <string name="start">Start</string>
+    <string name="next_activity">Next Activity</string>
+    <string name="get_data">Get Data</string>
+    <string name="get_unique_id">Get Unique ID</string>
+    <string name="consuming_web_apis">Consuming WEb APIs</string>
+    <string name="post_data">Post Data</string>
+    <string name="restful_api_test">RESTFul API Test</string>
+</resources>
